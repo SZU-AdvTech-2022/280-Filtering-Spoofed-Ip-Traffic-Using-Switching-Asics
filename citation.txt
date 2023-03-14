@@ -1,0 +1,7 @@
+@inproceedings{REPO-281,
+    author = "Bai, Jiasong and Bi, Jun and Zhang, Menghao and Li, Guanyu",
+    booktitle = "Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos",
+    pages = "51--53",
+    title = "{Filtering spoofed ip traffic using switching asics}",
+    year = "2018"
+}
